@@ -1,0 +1,8 @@
+{
+  "agent_id": "statistical-pairs-trading-cointegration",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
